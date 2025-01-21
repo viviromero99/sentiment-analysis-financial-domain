@@ -1,0 +1,22 @@
+Instância,label,perfil de investidor genérico,perfil de investidor conservador,perfil de investidor moderado,perfil de investidor arrojado
+4,Opportunity,negative,negative,positive,positive
+224,Opportunity,negative,negative,negative,positive
+232,Opportunity,negative,negative,positive,negative
+280,Opportunity,positive,positive,positive,negative
+409,Opportunity,negative,negative,positive,positive
+432,Opportunity,positive,positive,positive,negative
+485,Opportunity,positive,positive,positive,negative
+626,Opportunity,negative,negative,positive,negative
+635,Opportunity,positive,negative,positive,positive
+638,Opportunity,negative,positive,positive,negative
+647,Opportunity,negative,negative,negative,positive
+785,Opportunity,negative,negative,positive,positive
+876,Opportunity,negative,positive,positive,positive
+121,Risk,positive,negative,positive,positive
+398,Risk,positive,positive,positive,negative
+554,Risk,positive,negative,positive,positive
+646,Risk,positive,negative,positive,positive
+708,Risk,negative,negative,positive,positive
+845,Risk,negative,negative,positive,negative
+986,Risk,negative,negative,positive,positive
+1004,Risk,positive,positive,negative,positive
